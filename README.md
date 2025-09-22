@@ -15,8 +15,14 @@
 git clone https://github.com/brillianxbt/aztec.git
 cd aztec
 chmod +x autoinstall-aztec-docker.sh
-sudo ./autoinstall-aztec-docker.sh```
+sudo ./autoinstall-aztec-docker.sh
 
+
+
+
+
+
+## 🛠️ Quick Start
 ### 1. One Command Instlation
 The script will ask for the following information:
 
