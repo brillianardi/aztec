@@ -1,4 +1,4 @@
-# Aztec Sequencer Guid
+# Aztec Sequencer Guide
 
 ## 📋 Prerequisites
 
