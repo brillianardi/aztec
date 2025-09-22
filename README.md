@@ -20,8 +20,8 @@ sudo ./autoinstall-aztec-docker.sh
 
 ### The script will ask for the following information:
 
-ETHEREUM_RPC_URL: Ethereum mainnet RPC URL (from Infura, Alchemy, etc.)
-CONSENSUS_BEACON_URL: Ethereum consensus layer URL (Beacon chain)
-VALIDATOR_PRIVATE_KEYS: Validator private key(s) - comma separated if multiple
-COINBASE: Wallet address to receive rewards
-P2P_IP: Public IP of your VPS (will auto-detect)
+- **ETHEREUM_RPC_URL**: Ethereum mainnet RPC URL (dari Infura, Alchemy, dll.)
+- **CONSENSUS_BEACON_URL**: URL layer konsensus Ethereum (Beacon chain)
+- **VALIDATOR_PRIVATE_KEYS**: Kunci pribadi validator - dipisahkan koma jika lebih dari satu
+- **COINBASE**: Alamat dompet untuk menerima hadiah
+- **P2P_IP**: IP publik VPS Anda (akan terdeteksi secara otomatis)
