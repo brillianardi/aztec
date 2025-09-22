@@ -16,13 +16,21 @@ git clone https://github.com/brillianxbt/aztec.git
 cd aztec
 chmod +x autoinstall-aztec-docker.sh
 sudo ./autoinstall-aztec-docker.sh
+```
 
 
 
 
 
+### DNS
 
-## 🛠️ Quick Start
+Untuk mengubah DNS dan menambah virtual memory, jalankan perintah berikut:
+
+```bash
+chmod +x dns.sh
+./dns.sh
+```
+
 ### 1. One Command Instlation
 The script will ask for the following information:
 
