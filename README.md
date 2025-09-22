@@ -18,10 +18,6 @@ chmod +x autoinstall-aztec-docker.sh
 sudo ./autoinstall-aztec-docker.sh
 ```
 
-
-
-
-
 ### The script will ask for the following information:
 
 ETHEREUM_RPC_URL: Ethereum mainnet RPC URL (from Infura, Alchemy, etc.)
