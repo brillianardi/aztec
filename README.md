@@ -2,15 +2,17 @@
 
 ## 📋 Prerequisites
 
-- VPS/Server with **OS Ubuntu**
-- Minimum **8GB RAM**, **4 vCPU**, **100GB SSD**
+- **OS Ubuntu**
+- **4 Core**
+- **8GB RAM**
+- **100GB Disk**
 - Stable internet connection
 
 ## 🛠️ Quick Start
 
-### 1. Clone and Run
+### 1. One Command Instlation
 ```bash
 git clone https://github.com/brillianxbt/aztec.git
 cd aztec
-chmod +x setup-aztec.sh
-sudo ./setup-aztec.sh
+chmod +x autoinstall-aztec-docker.sh
+sudo ./autoinstall-aztec-docker.sh
