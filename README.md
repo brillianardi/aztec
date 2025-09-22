@@ -1,22 +1,9 @@
-# Aztec Node Setup Script
-
-Automated script to install and run an Aztec node on Ubuntu VPS.
-
-## 🚀 Features
-
-- ✅ Automatic system dependencies installation
-- ✅ Docker & Docker Compose installation  
-- ✅ Latest Aztec CLI installation
-- ✅ Automatic environment configuration
-- ✅ Public IP auto-detection
-- ✅ Optimized Docker Compose setup
-- ✅ Existing configuration file backup
+# Aztec Sequencer Guid
 
 ## 📋 Prerequisites
 
-- VPS/Server with **Ubuntu 20.04/22.04**
-- Minimum **4GB RAM**, **2 vCPU**, **100GB SSD**
-- **Root/sudo** access privileges
+- VPS/Server with **OS Ubuntu**
+- Minimum **8GB RAM**, **4 vCPU**, **100GB SSD**
 - Stable internet connection
 
 ## 🛠️ Quick Start
