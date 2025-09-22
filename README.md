@@ -22,17 +22,7 @@ sudo ./autoinstall-aztec-docker.sh
 
 
 
-### DNS
-
-Untuk mengubah DNS dan menambah virtual memory, jalankan perintah berikut:
-
-```bash
-chmod +x dns.sh
-./dns.sh
-```
-
-### 1. One Command Instlation
-The script will ask for the following information:
+### The script will ask for the following information:
 
 ETHEREUM_RPC_URL: Ethereum mainnet RPC URL (from Infura, Alchemy, etc.)
 CONSENSUS_BEACON_URL: Ethereum consensus layer URL (Beacon chain)
